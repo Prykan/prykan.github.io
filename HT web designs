@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <link rel="stylesheet" href="./resources/CSS/index.css">
+    <title>HT web designs</title>
+ </head>  
+ <body>
+    <h1>Welcome to HT web designs</h1>
+    <p>I specilize in front end web development and E-commerce websites</p>
+    <ul>
+        <li>Online stores</li>
+        <li>Blogs</li>
+        <li>Custom forms</li>
+        <li>Static webpages</li>
+    </ul>
+ </body> 
+</html>
